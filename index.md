@@ -1,7 +1,11 @@
 ## Welcome to GitHub Pages
 
 This Page is for Storybegins
+
 But I can't see it
+
+What about this
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 You can use the [editor on GitHub](https://github.com/Class44/Class44/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
