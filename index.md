@@ -2,10 +2,7 @@
 
 This Page is for Storybegins
 
-But I can't see it
-
-What about this
-!(this is baidu )[http://www.baidu.com]
+Now,我可以写中文了？
 
 You can use the [editor on GitHub](https://github.com/Class44/Class44/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
